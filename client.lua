@@ -1,0 +1,1 @@
+-- This script is empty for this particular functionality as the command only needs to be handled on the server side.
