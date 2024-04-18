@@ -3,6 +3,8 @@ This resource will print the invitation for the
 Strife Roleplay - Remastered Discord Server
 when the command /discord is used in-game.
 
+Note: Support is not provided for this resource. This resource is OPEN SOURCE and you have permission to modify, reproduce, copy or distribute non-commercially.
+
 -- Fair Usage Disclosure: 
 -- This file (fxmanifest.lua) and its accompanying scripts (client.lua, server.lua) 
 are provided by Strife Social & Strife Social Developments under the Fair Usage policy. 
